@@ -1,0 +1,142 @@
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.dll
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\com.companyname.XamarinTest.apk
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\com.companyname.XamarinTest-Signed.apk
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.csprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Droid.App.xaml.g.cs
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Droid.MainPage.xaml.g.cs
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.dll
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\bin\com.companyname.XamarinTest.apk
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\res\values\styles.xml
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\R.cs.flag
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\uploadflags.txt
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.dll
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\com.companyname.XamarinTest.apk
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\com.companyname.XamarinTest-Signed.apk
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.csprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Droid.App.xaml.g.cs
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Droid.MainPage.xaml.g.cs
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.dll
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\XamarinTest.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\bin\com.companyname.XamarinTest.apk
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\res\values\styles.xml
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\R.cs.flag
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\uploadflags.txt
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\bin\Debug\XamarinTest.Android.dll
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\XamarinTest.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ishmyles\Desktop\XamarinTest - Edit\XamarinTest\XamarinTest.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
